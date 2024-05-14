@@ -1,0 +1,1 @@
+# static-atau-class-attribute
